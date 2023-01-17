@@ -1,2 +1,4 @@
-# First_Mongo_FE
-strive books frontend
+# EPICODE BLOG TEMPLATE
+
+- Updated to Reac18
+- Changes quill to draftjs
